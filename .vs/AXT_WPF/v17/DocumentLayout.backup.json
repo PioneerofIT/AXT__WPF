@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\C#_WPF\\AXT_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782924AA-B1C6-45D0-943E-6F1088A9E20B}|AXT_WPF\\AXT_WPF.csproj|d:\\study\\c#_wpf\\axt_wpf\\axt_wpf\\iolist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{782924AA-B1C6-45D0-943E-6F1088A9E20B}|AXT_WPF\\AXT_WPF.csproj|solutionrelative:axt_wpf\\iolist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782924AA-B1C6-45D0-943E-6F1088A9E20B}|AXT_WPF\\AXT_WPF.csproj|d:\\study\\c#_wpf\\axt_wpf\\axt_wpf\\iolist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{782924AA-B1C6-45D0-943E-6F1088A9E20B}|AXT_WPF\\AXT_WPF.csproj|solutionrelative:axt_wpf\\iolist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782924AA-B1C6-45D0-943E-6F1088A9E20B}|AXT_WPF\\AXT_WPF.csproj|d:\\study\\c#_wpf\\axt_wpf\\axt_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{782924AA-B1C6-45D0-943E-6F1088A9E20B}|AXT_WPF\\AXT_WPF.csproj|solutionrelative:axt_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GHLEE\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782924AA-B1C6-45D0-943E-6F1088A9E20B}|AXT_WPF\\AXT_WPF.csproj|d:\\study\\c#_wpf\\axt_wpf\\axt_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782924AA-B1C6-45D0-943E-6F1088A9E20B}|AXT_WPF\\AXT_WPF.csproj|solutionrelative:axt_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOList.xaml.cs",
+              "DocumentMoniker": "D:\\Study\\C#_WPF\\AXT_WPF\\AXT_WPF\\IOList.xaml.cs",
+              "RelativeDocumentMoniker": "AXT_WPF\\IOList.xaml.cs",
+              "ToolTip": "D:\\Study\\C#_WPF\\AXT_WPF\\AXT_WPF\\IOList.xaml.cs",
+              "RelativeToolTip": "AXT_WPF\\IOList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:21:07.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\GHLEE\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\GHLEE\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAxwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:07:38.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOList.xaml",
+              "DocumentMoniker": "D:\\Study\\C#_WPF\\AXT_WPF\\AXT_WPF\\IOList.xaml",
+              "RelativeDocumentMoniker": "AXT_WPF\\IOList.xaml",
+              "ToolTip": "D:\\Study\\C#_WPF\\AXT_WPF\\AXT_WPF\\IOList.xaml",
+              "RelativeToolTip": "AXT_WPF\\IOList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T07:06:29.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Study\\C#_WPF\\AXT_WPF\\AXT_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AXT_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Study\\C#_WPF\\AXT_WPF\\AXT_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AXT_WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:03:25.764Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d932e4a6-78fb-497e-8867-9ef8270a2448",
+        "Display": 1,
+        "X": -5,
+        "Y": -15,
+        "Width": 1715,
+        "Height": 867,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Study\\C#_WPF\\AXT_WPF\\AXT_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AXT_WPF\\MainWindow.xaml",
+              "ToolTip": "D:\\Study\\C#_WPF\\AXT_WPF\\AXT_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "AXT_WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T07:03:26.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
