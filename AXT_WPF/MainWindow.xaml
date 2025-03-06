@@ -5,20 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AXT_WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        WindowStyle="None">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="67*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition Height="100" />
         </Grid.RowDefinitions>
-        <StackPanel x:Name="">
-            
+        <StackPanel Grid.ColumnSpan="2" Margin="4,2,-4,97" Grid.RowSpan="2">
+            <Frame x:Name="ContentFrame" NavigationUIVisibility="Hidden"/>
         </StackPanel>
-        
-        <StackPanel  Grid.Row="1" Orientation="Horizontal">
-            <Button Margin="10" Width="100" Content="I/O"></Button>
-            <Button Margin="10" Width="100" Content="Motion"></Button>
-            <Button Margin="10" Width="100" Content="Exit"></Button>
+
+        <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2" Margin="4,2,-4,-3" Grid.Row="1" MouseLeftButtonDown="Window_MouseLeftButtonDown" Background="Transparent">
+            <Button Margin="10" Width="100" Content="I/O" Click="IO_Button_Click"></Button>
+            <Button Margin="10" Width="100" Content="Motion" Click="Motion_Button_Click"></Button>
+            <Button Margin="10" Width="100" Content="Exit" Click="Exit_Button_Click"></Button>
         </StackPanel>
 
     </Grid>

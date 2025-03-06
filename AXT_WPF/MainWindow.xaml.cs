@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using AXT_WPF.View;
 
 namespace AXT_WPF
 {
@@ -19,6 +20,29 @@ namespace AXT_WPF
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void IO_Button_Click(object sender, RoutedEventArgs e)
+        {
+            ContentFrame.Navigate(new IOList());
+        }
+
+        private void Motion_Button_Click(object sender, RoutedEventArgs e)
+        {
+            ContentFrame.Navigate(new Motion());
+        }
+
+        private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.ChangedButton == MouseButton.Left)
+            {
+                this.DragMove();
+            }
+        }
+
+        private void Exit_Button_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
         }
     }
 }

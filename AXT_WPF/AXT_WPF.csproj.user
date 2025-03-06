@@ -7,7 +7,10 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="IOList.xaml.cs">
+    <Compile Update="View\IOList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Motion.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -15,7 +18,10 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="IOList.xaml">
+    <Page Update="View\IOList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Motion.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

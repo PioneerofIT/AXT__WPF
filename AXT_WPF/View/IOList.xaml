@@ -13,18 +13,7 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <StackPanel>
-            <ComboBox>
 
-            </ComboBox>
-        </StackPanel>
-
-
-        <StackPanel Grid.Column="1">
-            <ComboBox>
-                
-            </ComboBox>
-        </StackPanel>
-
+        <TextBlock Text="I/O Page 입니다."/>
     </Grid>
 </Page>
